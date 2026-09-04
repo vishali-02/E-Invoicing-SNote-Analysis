@@ -1,0 +1,20 @@
+# Runtime state files (generated during skill execution)
+**/note_data.json
+**/note_state.json
+**/tree_state.json
+**/batch_results.json
+**/source_dump.txt
+**/notes_to_process.txt
+**/snap_current.txt
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Playwright session cache
+**/.playwright-cli/
+
+# OS files
+.DS_Store
+Thumbs.db
